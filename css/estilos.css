@@ -1,0 +1,18 @@
+.logo img{
+    width:50%;
+    height: auto;
+}
+
+.footer{
+    background-color: #343a40;
+    text-align: center;
+}
+
+
+.color-texto{
+    color: snow;
+}
+body{
+    background-color: rgb(112, 21, 21);
+    color: snow;
+}
